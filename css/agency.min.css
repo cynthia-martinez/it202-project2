@@ -168,6 +168,16 @@ img::-moz-selection {
     }
 }
 
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 header.masthead {
     text-align: center;
     color: #fff;
