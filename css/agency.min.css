@@ -237,6 +237,20 @@ header.masthead .intro-text .intro-heading {
     text-transform: none
 }
 
+.map {
+    height: 30rem
+}
+
+@media (max-width: 992px) {
+    .map {
+        height:75%
+    }
+}
+
+.map iframe {
+    pointer-events: none
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px
