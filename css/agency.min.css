@@ -13,15 +13,15 @@ p {
 }
 
 a {
-    color: #fed136
+    color: #00AEC7
 }
 
 a:hover {
-    color: #fec503
+    color: #00B5E2
 }
 
 .text-primary {
-    color: #fed136!important
+    color: #00AEC7!important
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -63,7 +63,7 @@ h1,h2,h3,h4,h5,h6 {
     background: #fed136;
     text-shadow: none
 }
-
+F
 img::-moz-selection {
     background: 0 0
 }
@@ -87,13 +87,13 @@ img::-moz-selection {
 }
 
 .btn-primary {
-    background-color: #fed136;
-    border-color: #fed136
+    background-color: #00B5E2;
+    border-color: #00B5E2
 }
 
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover {
-    background-color: #fec810!important;
-    border-color: #fec810!important;
+    background-color: #00AEC7!important;
+    border-color: #00AEC7!important;
     color: #fff
 }
 
@@ -117,12 +117,12 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-    color: #fed136;
+    color: #00AEC7;
     font-family: 'Kaushan Script',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
 }
 
 #mainNav .navbar-brand.active,#mainNav .navbar-brand:active,#mainNav .navbar-brand:focus,#mainNav .navbar-brand:hover {
-    color: #fec503
+    color: #00B5E2;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -135,7 +135,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active,#mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #fed136
+    color: #00B5E2
 }
 
 @media (min-width: 992px) {
@@ -272,7 +272,7 @@ header.masthead .intro-text .intro-heading {
     height: 100%;
     transition: all ease .5s;
     opacity: 0;
-    background: rgba(254,209,54,.9)
+    background: rgba(0, 181, 226,.9)
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -463,7 +463,7 @@ header.masthead .intro-text .intro-heading {
     color: #fff;
     border: 7px solid #e9ecef;
     border-radius: 100%;
-    background-color: #fed136
+    background-color: #00AEC7
 }
 
 .timeline>li .timeline-image h4 {
@@ -711,5 +711,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li a:hover {
-    background-color: #fed136
+    background-color: #00B5E2
 }
